@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DrDanielMetz
+- 👀 I’m interested in IoT, MES, MOM, Java, Docker, K8S, OpenShift, Traceability
+- 🌱 I’m currently learning Catena-X and the BAMM models
